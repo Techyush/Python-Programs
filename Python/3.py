@@ -1,0 +1,7 @@
+a=input("Enter 1st Value: ")
+b=input("Enter 2nd Value: ")
+c=int(a)+int(b)
+d=int(a)-int(b)
+e=int(a)*int(b)
+f=int(b)/int(a)
+print("The answer is : ",c,d,e,f)
